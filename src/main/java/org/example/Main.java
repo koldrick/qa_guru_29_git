@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-    public static String msg = "Hello guys!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
+    public static String msg = "Hello guys???";
 
 
     
